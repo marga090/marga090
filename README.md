@@ -1,5 +1,11 @@
 ### Hola a tod@s, éste es mi perfil de GitHub 👋
 
+## Me presento:
+
+Soy Marga, estudio primero de DAW en el IES Los Alcores. 
+He trabajado como informática y como costurera.
+Me gusta aprender y buscar siempre soluciones lo más sencillas posibles.
+
 <!--
 **marga090/marga090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
