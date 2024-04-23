@@ -3,7 +3,9 @@
 ## Me presento:
 
 Soy Marga, estudio primero de DAW en el IES Los Alcores. 
+
 He trabajado como informática y como costurera.
+
 Me gusta aprender y buscar siempre soluciones lo más sencillas posibles.
 
 <!--
