@@ -2,7 +2,7 @@
 
 ## Me presento:
 
-Soy Marga, estudio segundo de DAW en el IES Los Alcores. 
+Soy Marga, he estudiado el Ciclo Superior de DAW en el IES Los Alcores. 
 
 He trabajado como informática y como costurera.
 
